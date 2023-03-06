@@ -1,0 +1,16 @@
+{
+    "list": [
+      {
+        "string": "Objeto 1",
+        "date": "2023-04-01T00:00:00Z"
+      },
+      {
+        "string": "Objeto 2",
+        "date": "2023-04-02T00:00:00Z"
+      },
+      {
+        "string": "Objeto 3",
+        "date": "2023-04-03T00:00:00Z"
+      }
+    ]
+  }

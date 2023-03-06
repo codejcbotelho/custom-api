@@ -1,0 +1,17 @@
+{
+    "list": [
+      {
+        "brand": "Visa",
+        "description": "This is the Visa brand."
+      },
+      {
+        "brand": "Mastercard",
+        "description": "This is the Mastercard brand."
+      },
+      {
+        "brand": "American Express",
+        "description": "This is the American Express brand."
+      }
+    ]
+  }
+  
